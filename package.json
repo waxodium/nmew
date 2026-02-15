@@ -1,0 +1,11 @@
+{
+  "name": "nmew",
+  "version": "1.0.0",
+  "description": "nmew. Concatenate files to standard output built with NodeJS experimentally. Developed through personal exercise and studies",
+  "main": "s.js",
+  "bin": {
+    "nmew": "./src/nmew.js"
+  },
+  "author": "waxory",
+  "license": "MIT"
+}
